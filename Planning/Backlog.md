@@ -18,7 +18,7 @@
 
 - **As a owner I want reference to student at hack your future so that it gives credibility and used to connect.**
 
-- **As a owner I want minimalist background design so that it create  clear, high quality image,tempting to audience.**
+- **As a owner I want minimalist background design so that it create  clear tempting to audience.**
   
 - **As a owner I want spoken language reference so that recruiter/employer get to know ability to be an effective public speaker.**
 
